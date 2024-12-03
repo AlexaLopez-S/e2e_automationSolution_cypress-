@@ -1,1 +1,1 @@
-# e2e_automationSolution_cypress-
+# e2e_automationSolution_cypress
