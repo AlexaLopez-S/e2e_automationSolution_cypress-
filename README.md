@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-# e2e_automationSolution_cypress-
-=======
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -63,4 +61,4 @@ Saucelabs is a website created with the purpose of helping the QAE to learn auto
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> Stashed changes
+
